@@ -1,2 +1,3 @@
 # Bỏ qua thư mục "build" và các tệp con bên trong nó
 Client-V2/node_modules/
+node_modules/
