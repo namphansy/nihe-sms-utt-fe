@@ -1,0 +1,2 @@
+# Bỏ qua thư mục "build" và các tệp con bên trong nó
+node_modules/
